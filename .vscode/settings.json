@@ -1,0 +1,5 @@
+{
+    "arduino.clearOutputOnBuild": false,
+    "arduino.logLevel": "info",
+   
+}
